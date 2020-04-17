@@ -55,7 +55,6 @@ cover/
 # Specific files
 *.csv
 *.json
-*.html
 queries.txt
 
 # VSCode
